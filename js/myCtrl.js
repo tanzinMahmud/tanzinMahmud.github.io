@@ -1,5 +1,5 @@
 let app = angular.module('myApp', [])
 
 app.controller('myController', function ($scope) {
-    $scope.name = 'Md. Tanzin Mahmud'
+    $scope.name = 'মোঃ তানজিন মাহমুদ'
 })

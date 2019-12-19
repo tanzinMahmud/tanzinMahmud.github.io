@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'SubhaSandhya';
+    src: URL('../fonts/SubhaSandhya.ttf') format('truetype');
+}
+
+* {
+    font-family: 'SubhaSandhya';
+}
+
+.bg-light {
+    background-color: #ff5c8d !important;
+}
+
+.navbar-light .navbar-brand {
+    color: #ffffff;
+}
