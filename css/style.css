@@ -14,3 +14,13 @@
 .navbar-light .navbar-brand {
     color: #ffffff;
 }
+
+.navbar-brand {
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    font-size: 25px;
+    line-height: inherit;
+    white-space: nowrap;
+}
